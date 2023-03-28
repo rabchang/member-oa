@@ -1,0 +1,21 @@
+build
+.gradle
+.DS_Store
+.idea/
+.vscode/
+.next/
+**/out/
+*.jar
+# others
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+*.pid
+*.orig
+temp/
+frontend/node_modules
+backend/target
+./newSsj/target
+*.deb

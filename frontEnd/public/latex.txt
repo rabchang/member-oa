@@ -1,0 +1,121 @@
+export const text = `%\author{Author list}
+\begin{small}
+\begin{center}
+M.~Ablikim$^{1}$, M.~N.~Achasov$^{5,b}$, P.~Adlarson$^{75}$, X.~C.~Ai$^{81}$, R.~Aliberti$^{36}$, A.~Amoroso$^{74A,74C}$, M.~R.~An$^{40}$, Q.~An$^{71,58}$, Y.~Bai$^{57}$, O.~Bakina$^{37}$, I.~Balossino$^{30A}$, Y.~Ban$^{47,g}$, V.~Batozskaya$^{1,45}$, K.~Begzsuren$^{33}$, N.~Berger$^{36}$, M.~Berlowski$^{45}$, M.~Bertani$^{29A}$, D.~Bettoni$^{30A}$, F.~Bianchi$^{74A,74C}$, E.~Bianco$^{74A,74C}$, A.~Bortone$^{74A,74C}$, I.~Boyko$^{37}$, R.~A.~Briere$^{6}$, A.~Brueggemann$^{68}$, H.~Cai$^{76}$, X.~Cai$^{1,58}$, A.~Calcaterra$^{29A}$, G.~F.~Cao$^{1,63}$, N.~Cao$^{1,63}$, S.~A.~Cetin$^{62A}$, J.~F.~Chang$^{1,58}$, T.~T.~Chang$^{77}$, W.~L.~Chang$^{1,63}$, G.~R.~Che$^{44}$, G.~Chelkov$^{37,a}$, C.~Chen$^{44}$, Chao~Chen$^{55}$, G.~Chen$^{1}$, H.~S.~Chen$^{1,63}$, M.~L.~Chen$^{1,58,63}$, S.~J.~Chen$^{43}$, S.~M.~Chen$^{61}$, T.~Chen$^{1,63}$, X.~R.~Chen$^{32,63}$, X.~T.~Chen$^{1,63}$, Y.~B.~Chen$^{1,58}$, Y.~Q.~Chen$^{35}$, Z.~J.~Chen$^{26,h}$, W.~S.~Cheng$^{74C}$, S.~K.~Choi$^{11A}$, X.~Chu$^{44}$, G.~Cibinetto$^{30A}$, S.~C.~Coen$^{4}$, F.~Cossio$^{74C}$, J.~J.~Cui$^{50}$, H.~L.~Dai$^{1,58}$, J.~P.~Dai$^{79}$, A.~Dbeyssi$^{19}$, R.~ E.~de Boer$^{4}$, D.~Dedovich$^{37}$, Z.~Y.~Deng$^{1}$, A.~Denig$^{36}$, I.~Denysenko$^{37}$, M.~Destefanis$^{74A,74C}$, F.~De~Mori$^{74A,74C}$, B.~Ding$^{66,1}$, X.~X.~Ding$^{47,g}$, Y.~Ding$^{41}$, Y.~Ding$^{35}$, J.~Dong$^{1,58}$, L.~Y.~Dong$^{1,63}$, M.~Y.~Dong$^{1,58,63}$, X.~Dong$^{76}$, M.~C.~Du$^{1}$, S.~X.~Du$^{81}$, Z.~H.~Duan$^{43}$, P.~Egorov$^{37,a}$, Y.~L.~Fan$^{76}$, J.~Fang$^{1,58}$, S.~S.~Fang$^{1,63}$, W.~X.~Fang$^{1}$, Y.~Fang$^{1}$, R.~Farinelli$^{30A}$, L.~Fava$^{74B,74C}$, F.~Feldbauer$^{4}$, G.~Felici$^{29A}$, C.~Q.~Feng$^{71,58}$, J.~H.~Feng$^{59}$, K~Fischer$^{69}$, M.~Fritsch$^{4}$, C.~Fritzsch$^{68}$, C.~D.~Fu$^{1}$, J.~L.~Fu$^{63}$, Y.~W.~Fu$^{1}$, H.~Gao$^{63}$, Y.~N.~Gao$^{47,g}$, Yang~Gao$^{71,58}$, S.~Garbolino$^{74C}$, I.~Garzia$^{30A,30B}$, P.~T.~Ge$^{76}$, Z.~W.~Ge$^{43}$, C.~Geng$^{59}$, E.~M.~Gersabeck$^{67}$, A~Gilman$^{69}$, K.~Goetzen$^{14}$, L.~Gong$^{41}$, W.~X.~Gong$^{1,58}$, W.~Gradl$^{36}$, S.~Gramigna$^{30A,30B}$, M.~Greco$^{74A,74C}$, M.~H.~Gu$^{1,58}$, Y.~T.~Gu$^{16}$, C.~Y~Guan$^{1,63}$, Z.~L.~Guan$^{23}$, A.~Q.~Guo$^{32,63}$, L.~B.~Guo$^{42}$, M.~J.~Guo$^{50}$, R.~P.~Guo$^{49}$, Y.~P.~Guo$^{13,f}$, A.~Guskov$^{37,a}$, T.~T.~Han$^{50}$, W.~Y.~Han$^{40}$, X.~Q.~Hao$^{20}$, F.~A.~Harris$^{65}$, K.~K.~He$^{55}$, K.~L.~He$^{1,63}$, F.~H~H..~Heinsius$^{4}$, C.~H.~Heinz$^{36}$, Y.~K.~Heng$^{1,58,63}$, C.~Herold$^{60}$, T.~Holtmann$^{4}$, P.~C.~Hong$^{13,f}$, G.~Y.~Hou$^{1,63}$, X.~T.~Hou$^{1,63}$, Y.~R.~Hou$^{63}$, Z.~L.~Hou$^{1}$, H.~M.~Hu$^{1,63}$, J.~F.~Hu$^{56,i}$, T.~Hu$^{1,58,63}$, Y.~Hu$^{1}$, G.~S.~Huang$^{71,58}$, K.~X.~Huang$^{59}$, L.~Q.~Huang$^{32,63}$, X.~T.~Huang$^{50}$, Y.~P.~Huang$^{1}$, T.~Hussain$^{73}$, N~H\"usken$^{28,36}$, W.~Imoehl$^{28}$, M.~Irshad$^{71,58}$, J.~Jackson$^{28}$, S.~Jaeger$^{4}$, S.~Janchiv$^{33}$, J.~H.~Jeong$^{11A}$, Q.~Ji$^{1}$, Q.~P.~Ji$^{20}$, X.~B.~Ji$^{1,63}$, X.~L.~Ji$^{1,58}$, Y.~Y.~Ji$^{50}$, X.~Q.~Jia$^{50}$, Z.~K.~Jia$^{71,58}$, H.~J.~Jiang$^{76}$, P.~C.~Jiang$^{47,g}$, S.~S.~Jiang$^{40}$, T.~J.~Jiang$^{17}$, X.~S.~Jiang$^{1,58,63}$, Y.~Jiang$^{63}$, J.~B.~Jiao$^{50}$, Z.~Jiao$^{24}$, S.~Jin$^{43}$, Y.~Jin$^{66}$, M.~Q.~Jing$^{1,63}$, T.~Johansson$^{75}$, X.~K.$^{1}$, S.~Kabana$^{34}$, N.~Kalantar-Nayestanaki$^{64}$, X.~L.~Kang$^{10}$, X.~S.~Kang$^{41}$, R.~Kappert$^{64}$, M.~Kavatsyuk$^{64}$, B.~C.~Ke$^{81}$, A.~Khoukaz$^{68}$, R.~Kiuchi$^{1}$, R.~Kliemt$^{14}$, O.~B.~Kolcu$^{62A}$, B.~Kopf$^{4}$, M.~K.~Kuessner$^{4}$, A.~Kupsc$^{45,75}$, W.~K\"uhn$^{38}$, J.~J.~Lane$^{67}$, P. ~Larin$^{19}$, A.~Lavania$^{27}$, L.~Lavezzi$^{74A,74C}$, T.~T.~Lei$^{71,k}$, Z.~H.~Lei$^{71,58}$, H.~Leithoff$^{36}$, M.~Lellmann$^{36}$, T.~Lenz$^{36}$, C.~Li$^{44}$, C.~Li$^{48}$, C.~H.~Li$^{40}$, Cheng~Li$^{71,58}$, D.~M.~Li$^{81}$, F.~Li$^{1,58}$, G.~Li$^{1}$, H.~Li$^{71,58}$, H.~B.~Li$^{1,63}$, H.~J.~Li$^{20}$, H.~N.~Li$^{56,i}$, Hui~Li$^{44}$, J.~R.~Li$^{61}$, J.~S.~Li$^{59}$, J.~W.~Li$^{50}$, K.~L.~Li$^{20}$, Ke~Li$^{1}$, L.~J~Li$^{1,63}$, L.~K.~Li$^{1}$, Lei~Li$^{3}$, M.~H.~Li$^{44}$, P.~R.~Li$^{39,j,k}$, Q.~X.~Li$^{50}$, S.~X.~Li$^{13}$, T. ~Li$^{50}$, W.~D.~Li$^{1,63}$, W.~G.~Li$^{1}$, X.~H.~Li$^{71,58}$, X.~L.~Li$^{50}$, Xiaoyu~Li$^{1,63}$, Y.~G.~Li$^{47,g}$, Z.~J.~Li$^{59}$, Z.~X.~Li$^{16}$, C.~Liang$^{43}$, H.~Liang$^{35}$, H.~Liang$^{1,63}$, H.~Liang$^{71,58}$, Y.~F.~Liang$^{54}$, Y.~T.~Liang$^{32,63}$, G.~R.~Liao$^{15}$, L.~Z.~Liao$^{50}$, Y.~P.~Liao$^{1,63}$, J.~Libby$^{27}$, A. ~Limphirat$^{60}$, D.~X.~Lin$^{32,63}$, T.~Lin$^{1}$, B.~J.~Liu$^{1}$, B.~X.~Liu$^{76}$, C.~Liu$^{35}$, C.~X.~Liu$^{1}$, F.~H.~Liu$^{53}$, Fang~Liu$^{1}$, Feng~Liu$^{7}$, G.~M.~Liu$^{56,i}$, H.~Liu$^{39,j,k}$, H.~B.~Liu$^{16}$, H.~M.~Liu$^{1,63}$, Huanhuan~Liu$^{1}$, Huihui~Liu$^{22}$, J.~B.~Liu$^{71,58}$, J.~L.~Liu$^{72}$, J.~Y.~Liu$^{1,63}$, K.~Liu$^{1}$, K.~Y.~Liu$^{41}$, Ke~Liu$^{23}$, L.~Liu$^{71,58}$, L.~C.~Liu$^{44}$, Lu~Liu$^{44}$, M.~H.~Liu$^{13,f}$, P.~L.~Liu$^{1}$, Q.~Liu$^{63}$, S.~B.~Liu$^{71,58}$, T.~Liu$^{13,f}$, W.~K.~Liu$^{44}$, W.~M.~Liu$^{71,58}$, X.~Liu$^{39,j,k}$, Y.~Liu$^{39,j,k}$, Y.~Liu$^{81}$, Y.~B.~Liu$^{44}$, Z.~A.~Liu$^{1,58,63}$, Z.~Q.~Liu$^{50}$, X.~C.~Lou$^{1,58,63}$, F.~X.~Lu$^{59}$, H.~J.~Lu$^{24}$, J.~G.~Lu$^{1,58}$, X.~L.~Lu$^{1}$, Y.~Lu$^{8}$, Y.~P.~Lu$^{1,58}$, Z.~H.~Lu$^{1,63}$, C.~L.~Luo$^{42}$, M.~X.~Luo$^{80}$, T.~Luo$^{13,f}$, X.~L.~Luo$^{1,58}$, X.~R.~Lyu$^{63}$, Y.~F.~Lyu$^{44}$, F.~C.~Ma$^{41}$, H.~L.~Ma$^{1}$, J.~L.~Ma$^{1,63}$, L.~L.~Ma$^{50}$, M.~M.~Ma$^{1,63}$, Q.~M.~Ma$^{1}$, R.~Q.~Ma$^{1,63}$, R.~T.~Ma$^{63}$, X.~Y.~Ma$^{1,58}$, Y.~Ma$^{47,g}$, Y.~M.~Ma$^{32}$, F.~E.~Maas$^{19}$, M.~Maggiora$^{74A,74C}$, S.~Malde$^{69}$, Q.~A.~Malik$^{73}$, A.~Mangoni$^{29B}$, Y.~J.~Mao$^{47,g}$, Z.~P.~Mao$^{1}$, S.~Marcello$^{74A,74C}$, Z.~X.~Meng$^{66}$, J.~G.~Messchendorp$^{14,64}$, G.~Mezzadri$^{30A}$, H.~Miao$^{1,63}$, T.~J.~Min$^{43}$, R.~E.~Mitchell$^{28}$, X.~H.~Mo$^{1,58,63}$, N.~Yu.~Muchnoi$^{5,b}$, Y.~Nefedov$^{37}$, F.~Nerling$^{19,d}$, I.~B.~Nikolaev$^{5,b}$, Z.~Ning$^{1,58}$, S.~Nisar$^{12,l}$, Y.~Niu $^{50}$, S.~L.~Olsen$^{63}$, Q.~Ouyang$^{1,58,63}$, S.~Pacetti$^{29B,29C}$, X.~Pan$^{55}$, Y.~Pan$^{57}$, A.~~Pathak$^{35}$, P.~Patteri$^{29A}$, Y.~P.~Pei$^{71,58}$, M.~Pelizaeus$^{4}$, H.~P.~Peng$^{71,58}$, K.~Peters$^{14,d}$, J.~L.~Ping$^{42}$, R.~G.~Ping$^{1,63}$, S.~Plura$^{36}$, S.~Pogodin$^{37}$, V.~Prasad$^{34}$, F.~Z.~Qi$^{1}$, H.~Qi$^{71,58}$, H.~R.~Qi$^{61}$, M.~Qi$^{43}$, T.~Y.~Qi$^{13,f}$, S.~Qian$^{1,58}$, W.~B.~Qian$^{63}$, C.~F.~Qiao$^{63}$, J.~J.~Qin$^{72}$, L.~Q.~Qin$^{15}$, X.~P.~Qin$^{13,f}$, X.~S.~Qin$^{50}$, Z.~H.~Qin$^{1,58}$, J.~F.~Qiu$^{1}$, S.~Q.~Qu$^{61}$, C.~F.~Redmer$^{36}$, K.~J.~Ren$^{40}$, A.~Rivetti$^{74C}$, V.~Rodin$^{64}$, M.~Rolo$^{74C}$, G.~Rong$^{1,63}$, Ch.~Rosner$^{19}$, S.~N.~Ruan$^{44}$, N.~Salone$^{45}$, A.~Sarantsev$^{37,c}$, Y.~Schelhaas$^{36}$, K.~Schoenning$^{75}$, M.~Scodeggio$^{30A,30B}$, K.~Y.~Shan$^{13,f}$, W.~Shan$^{25}$, X.~Y.~Shan$^{71,58}$, J.~F.~Shangguan$^{55}$, L.~G.~Shao$^{1,63}$, M.~Shao$^{71,58}$, C.~P.~Shen$^{13,f}$, H.~F.~Shen$^{1,63}$, W.~H.~Shen$^{63}$, X.~Y.~Shen$^{1,63}$, B.~A.~Shi$^{63}$, H.~C.~Shi$^{71,58}$, J.~L.~Shi$^{13}$, J.~Y.~Shi$^{1}$, Q.~Q.~Shi$^{55}$, R.~S.~Shi$^{1,63}$, X.~Shi$^{1,58}$, J.~J.~Song$^{20}$, T.~Z.~Song$^{59}$, W.~M.~Song$^{35,1}$, Y. ~J.~Song$^{13}$, Y.~X.~Song$^{47,g}$, S.~Sosio$^{74A,74C}$, S.~Spataro$^{74A,74C}$, F.~Stieler$^{36}$, Y.~J.~Su$^{63}$, G.~B.~Sun$^{76}$, G.~X.~Sun$^{1}$, H.~Sun$^{63}$, H.~K.~Sun$^{1}$, J.~F.~Sun$^{20}$, K.~Sun$^{61}$, L.~Sun$^{76}$, S.~S.~Sun$^{1,63}$, T.~Sun$^{1,63}$, W.~Y.~Sun$^{35}$, Y.~Sun$^{10}$, Y.~J.~Sun$^{71,58}$, Y.~Z.~Sun$^{1}$, Z.~T.~Sun$^{50}$, Y.~X.~Tan$^{71,58}$, C.~J.~Tang$^{54}$, G.~Y.~Tang$^{1}$, J.~Tang$^{59}$, Y.~A.~Tang$^{76}$, L.~Y~Tao$^{72}$, Q.~T.~Tao$^{26,h}$, M.~Tat$^{69}$, J.~X.~Teng$^{71,58}$, V.~Thoren$^{75}$, W.~H.~Tian$^{59}$, W.~H.~Tian$^{52}$, Y.~Tian$^{32,63}$, Z.~F.~Tian$^{76}$, I.~Uman$^{62B}$, S.~J.~Wang $^{50}$, B.~Wang$^{1}$, B.~L.~Wang$^{63}$, Bo~Wang$^{71,58}$, C.~W.~Wang$^{43}$, D.~Y.~Wang$^{47,g}$, F.~Wang$^{72}$, H.~J.~Wang$^{39,j,k}$, H.~P.~Wang$^{1,63}$, J.~P.~Wang $^{50}$, K.~Wang$^{1,58}$, L.~L.~Wang$^{1}$, M.~Wang$^{50}$, Meng~Wang$^{1,63}$, S.~Wang$^{39,j,k}$, S.~Wang$^{13,f}$, T. ~Wang$^{13,f}$, T.~J.~Wang$^{44}$, W. ~Wang$^{72}$, W.~Wang$^{59}$, W.~P.~Wang$^{71,58}$, X.~Wang$^{47,g}$, X.~F.~Wang$^{39,j,k}$, X.~J.~Wang$^{40}$, X.~L.~Wang$^{13,f}$, Y.~Wang$^{61}$, Y.~D.~Wang$^{46}$, Y.~F.~Wang$^{1,58,63}$, Y.~H.~Wang$^{48}$, Y.~N.~Wang$^{46}$, Y.~Q.~Wang$^{1}$, Yaqian~Wang$^{18,1}$, Yi~Wang$^{61}$, Z.~Wang$^{1,58}$, Z.~L. ~Wang$^{72}$, Z.~Y.~Wang$^{1,63}$, Ziyi~Wang$^{63}$, D.~Wei$^{70}$, D.~H.~Wei$^{15}$, F.~Weidner$^{68}$, S.~P.~Wen$^{1}$, C.~W.~Wenzel$^{4}$, U.~W.~Wiedner$^{4}$, G.~Wilkinson$^{69}$, M.~Wolke$^{75}$, L.~Wollenberg$^{4}$, C.~Wu$^{40}$, J.~F.~Wu$^{1,63}$, L.~H.~Wu$^{1}$, L.~J.~Wu$^{1,63}$, X.~Wu$^{13,f}$, X.~H.~Wu$^{35}$, Y.~Wu$^{71}$, Y.~J.~Wu$^{32}$, Z.~Wu$^{1,58}$, L.~Xia$^{71,58}$, X.~M.~Xian$^{40}$, T.~Xiang$^{47,g}$, D.~Xiao$^{39,j,k}$, G.~Y.~Xiao$^{43}$, H.~Xiao$^{13,f}$, S.~Y.~Xiao$^{1}$, Y. ~L.~Xiao$^{13,f}$, Z.~J.~Xiao$^{42}$, C.~Xie$^{43}$, X.~H.~Xie$^{47,g}$, Y.~Xie$^{50}$, Y.~G.~Xie$^{1,58}$, Y.~H.~Xie$^{7}$, Z.~P.~Xie$^{71,58}$, T.~Y.~Xing$^{1,63}$, C.~F.~Xu$^{1,63}$, C.~J.~Xu$^{59}$, G.~F.~Xu$^{1}$, H.~Y.~Xu$^{66}$, Q.~J.~Xu$^{17}$, Q.~N.~Xu$^{31}$, W.~Xu$^{1,63}$, W.~L.~Xu$^{66}$, X.~P.~Xu$^{55}$, Y.~C.~Xu$^{78}$, Z.~P.~Xu$^{43}$, Z.~S.~Xu$^{63}$, F.~Yan$^{13,f}$, L.~Yan$^{13,f}$, W.~B.~Yan$^{71,58}$, W.~C.~Yan$^{81}$, X.~Q.~Yan$^{1}$, H.~J.~Yang$^{51,e}$, H.~L.~Yang$^{35}$, H.~X.~Yang$^{1}$, Tao~Yang$^{1}$, Y.~Yang$^{13,f}$, Y.~F.~Yang$^{44}$, Y.~X.~Yang$^{1,63}$, Yifan~Yang$^{1,63}$, Z.~W.~Yang$^{39,j,k}$, Z.~P.~Yao$^{50}$, M.~Ye$^{1,58}$, M.~H.~Ye$^{9}$, J.~H.~Yin$^{1}$, Z.~Y.~You$^{59}$, B.~X.~Yu$^{1,58,63}$, C.~X.~Yu$^{44}$, G.~Yu$^{1,63}$, J.~S.~Yu$^{26,h}$, T.~Yu$^{72}$, X.~D.~Yu$^{47,g}$, C.~Z.~Yuan$^{1,63}$, L.~Yuan$^{2}$, S.~C.~Yuan$^{1}$, X.~Q.~Yuan$^{1}$, Y.~Yuan$^{1,63}$, Z.~Y.~Yuan$^{59}$, C.~X.~Yue$^{40}$, A.~A.~Zafar$^{73}$, F.~R.~Zeng$^{50}$, X.~Zeng$^{13,f}$, Y.~Zeng$^{26,h}$, Y.~J.~Zeng$^{1,63}$, X.~Y.~Zhai$^{35}$, Y.~C.~Zhai$^{50}$, Y.~H.~Zhan$^{59}$, A.~Q.~Zhang$^{1,63}$, B.~L.~Zhang$^{1,63}$, B.~X.~Zhang$^{1}$, D.~H.~Zhang$^{44}$, G.~Y.~Zhang$^{20}$, H.~Zhang$^{71}$, H.~H.~Zhang$^{59}$, H.~H.~Zhang$^{35}$, H.~Q.~Zhang$^{1,58,63}$, H.~Y.~Zhang$^{1,58}$, J.~J.~Zhang$^{52}$, J.~L.~Zhang$^{21}$, J.~Q.~Zhang$^{42}$, J.~W.~Zhang$^{1,58,63}$, J.~X.~Zhang$^{39,j,k}$, J.~Y.~Zhang$^{1}$, J.~Z.~Zhang$^{1,63}$, Jianyu~Zhang$^{63}$, Jiawei~Zhang$^{1,63}$, L.~M.~Zhang$^{61}$, L.~Q.~Zhang$^{59}$, Lei~Zhang$^{43}$, P.~Zhang$^{1}$, Q.~Y.~~Zhang$^{40,81}$, Shuihan~Zhang$^{1,63}$, Shulei~Zhang$^{26,h}$, X.~D.~Zhang$^{46}$, X.~M.~Zhang$^{1}$, X.~Y.~Zhang$^{50}$, Xuyan~Zhang$^{55}$, Y. ~Zhang$^{72}$, Y.~Zhang$^{69}$, Y. ~T.~Zhang$^{81}$, Y.~H.~Zhang$^{1,58}$, Yan~Zhang$^{71,58}$, Yao~Zhang$^{1}$, Z.~H.~Zhang$^{1}$, Z.~L.~Zhang$^{35}$, Z.~Y.~Zhang$^{44}$, Z.~Y.~Zhang$^{76}$, G.~Zhao$^{1}$, J.~Zhao$^{40}$, J.~Y.~Zhao$^{1,63}$, J.~Z.~Zhao$^{1,58}$, Lei~Zhao$^{71,58}$, Ling~Zhao$^{1}$, M.~G.~Zhao$^{44}$, S.~J.~Zhao$^{81}$, Y.~B.~Zhao$^{1,58}$, Y.~X.~Zhao$^{32,63}$, Z.~G.~Zhao$^{71,58}$, A.~Zhemchugov$^{37,a}$, B.~Zheng$^{72}$, J.~P.~Zheng$^{1,58}$, W.~J.~Zheng$^{1,63}$, Y.~H.~Zheng$^{63}$, B.~Zhong$^{42}$, X.~Zhong$^{59}$, H. ~Zhou$^{50}$, L.~P.~Zhou$^{1,63}$, X.~Zhou$^{76}$, X.~K.~Zhou$^{7}$, X.~R.~Zhou$^{71,58}$, X.~Y.~Zhou$^{40}$, Y.~Z.~Zhou$^{13,f}$, J.~Zhu$^{44}$, K.~Zhu$^{1}$, K.~J.~Zhu$^{1,58,63}$, L.~Zhu$^{35}$, L.~X.~Zhu$^{63}$, S.~H.~Zhu$^{70}$, S.~Q.~Zhu$^{43}$, T.~J.~Zhu$^{13,f}$, W.~J.~Zhu$^{13,f}$, Y.~C.~Zhu$^{71,58}$, Z.~A.~Zhu$^{1,63}$, J.~H.~Zou$^{1}$, J.~Zu$^{71,58}$
+\\
+\vspace{0.2cm}
+(BESIII Collaboration)\\
+\vspace{0.2cm} {\it
+$^{1}$ Institute of High Energy Physics, Beijing 100049, People's Republic of China\\
+$^{2}$ Beihang University, Beijing 100191, People's Republic of China\\
+$^{3}$ Beijing Institute of Petrochemical Technology, Beijing 102617, People's Republic of China\\
+$^{4}$ Bochum Ruhr-University, D-44780 Bochum, Germany\\
+$^{5}$ Budker Institute of Nuclear Physics SB RAS (BINP), Novosibirsk 630090, Russia\\
+$^{6}$ Carnegie Mellon University, Pittsburgh, Pennsylvania 15213, USA\\
+$^{7}$ Central China Normal University, Wuhan 430079, People's Republic of China\\
+$^{8}$ Central South University, Changsha 410083, People's Republic of China\\
+$^{9}$ China Center of Advanced Science and Technology, Beijing 100190, People's Republic of China\\
+$^{10}$ China University of Geosciences, Wuhan 430074, People's Republic of China\\
+$^{11}$ Chung-Ang University, Seoul, 06974, Republic of Korea\\
+$^{12}$ COMSATS University Islamabad, Lahore Campus, Defence Road, Off Raiwind Road, 54000 Lahore, Pakistan\\
+$^{13}$ Fudan University, Shanghai 200433, People's Republic of China\\
+$^{14}$ GSI Helmholtzcentre for Heavy Ion Research GmbH, D-64291 Darmstadt, Germany\\
+$^{15}$ Guangxi Normal University, Guilin 541004, People's Republic of China\\
+$^{16}$ Guangxi University, Nanning 530004, People's Republic of China\\
+$^{17}$ Hangzhou Normal University, Hangzhou 310036, People's Republic of China\\
+$^{18}$ Hebei University, Baoding 071002, People's Republic of China\\
+$^{19}$ Helmholtz Institute Mainz, Staudinger Weg 18, D-55099 Mainz, Germany\\
+$^{20}$ Henan Normal University, Xinxiang 453007, People's Republic of China\\
+$^{21}$ Henan University, Kaifeng 475004, People's Republic of China\\
+$^{22}$ Henan University of Science and Technology, Luoyang 471003, People's Republic of China\\
+$^{23}$ Henan University of Technology, Zhengzhou 450001, People's Republic of China\\
+$^{24}$ Huangshan College, Huangshan 245000, People's Republic of China\\
+$^{25}$ Hunan Normal University, Changsha 410081, People's Republic of China\\
+$^{26}$ Hunan University, Changsha 410082, People's Republic of China\\
+$^{27}$ Indian Institute of Technology Madras, Chennai 600036, India\\
+$^{28}$ Indiana University, Bloomington, Indiana 47405, USA\\
+$^{29}$ INFN Laboratori Nazionali di Frascati , (A)INFN Laboratori Nazionali di Frascati, I-00044, Frascati, Italy; (B)INFN Sezione di Perugia, I-06100, Perugia, Italy; (C)University of Perugia, I-06100, Perugia, Italy\\
+$^{30}$ INFN Sezione di Ferrara, (A)INFN Sezione di Ferrara, I-44122, Ferrara, Italy; (B)University of Ferrara, I-44122, Ferrara, Italy\\
+$^{31}$ Inner Mongolia University, Hohhot 010021, People's Republic of China\\
+$^{32}$ Institute of Modern Physics, Lanzhou 730000, People's Republic of China\\
+$^{33}$ Institute of Physics and Technology, Peace Avenue 54B, Ulaanbaatar 13330, Mongolia\\
+$^{34}$ Instituto de Alta Investigaci\'on, Universidad de Tarapac\'a, Casilla 7D, Arica 1000000, Chile\\
+$^{35}$ Jilin University, Changchun 130012, People's Republic of China\\
+$^{36}$ Johannes Gutenberg University of Mainz, Johann-Joachim-Becher-Weg 45, D-55099 Mainz, Germany\\
+$^{37}$ Joint Institute for Nuclear Research, 141980 Dubna, Moscow region, Russia\\
+$^{38}$ Justus-Liebig-Universitaet Giessen, II. Physikalisches Institut, Heinrich-Buff-Ring 16, D-35392 Giessen, Germany\\
+$^{39}$ Lanzhou University, Lanzhou 730000, People's Republic of China\\
+$^{40}$ Liaoning Normal University, Dalian 116029, People's Republic of China\\
+$^{41}$ Liaoning University, Shenyang 110036, People's Republic of China\\
+$^{42}$ Nanjing Normal University, Nanjing 210023, People's Republic of China\\
+$^{43}$ Nanjing University, Nanjing 210093, People's Republic of China\\
+$^{44}$ Nankai University, Tianjin 300071, People's Republic of China\\
+$^{45}$ National Centre for Nuclear Research, Warsaw 02-093, Poland\\
+$^{46}$ North China Electric Power University, Beijing 102206, People's Republic of China\\
+$^{47}$ Peking University, Beijing 100871, People's Republic of China\\
+$^{48}$ Qufu Normal University, Qufu 273165, People's Republic of China\\
+$^{49}$ Shandong Normal University, Jinan 250014, People's Republic of China\\
+$^{50}$ Shandong University, Jinan 250100, People's Republic of China\\
+$^{51}$ Shanghai Jiao Tong University, Shanghai 200240, People's Republic of China\\
+$^{52}$ Shanxi Normal University, Linfen 041004, People's Republic of China\\
+$^{53}$ Shanxi University, Taiyuan 030006, People's Republic of China\\
+$^{54}$ Sichuan University, Chengdu 610064, People's Republic of China\\
+$^{55}$ Soochow University, Suzhou 215006, People's Republic of China\\
+$^{56}$ South China Normal University, Guangzhou 510006, People's Republic of China\\
+$^{57}$ Southeast University, Nanjing 211100, People's Republic of China\\
+$^{58}$ State Key Laboratory of Particle Detection and Electronics, Beijing 100049, Hefei 230026, People's Republic of China\\
+$^{59}$ Sun Yat-Sen University, Guangzhou 510275, People's Republic of China\\
+$^{60}$ Suranaree University of Technology, University Avenue 111, Nakhon Ratchasima 30000, Thailand\\
+$^{61}$ Tsinghua University, Beijing 100084, People's Republic of China\\
+$^{62}$ Turkish Accelerator Center Particle Factory Group, (A)Istinye University, 34010, Istanbul, Turkey; (B)Near East University, Nicosia, North Cyprus, 99138, Mersin 10, Turkey\\
+$^{63}$ University of Chinese Academy of Sciences, Beijing 100049, People's Republic of China\\
+$^{64}$ University of Groningen, NL-9747 AA Groningen, The Netherlands\\
+$^{65}$ University of Hawaii, Honolulu, Hawaii 96822, USA\\
+$^{66}$ University of Jinan, Jinan 250022, People's Republic of China\\
+$^{67}$ University of Manchester, Oxford Road, Manchester, M13 9PL, United Kingdom\\
+$^{68}$ University of Muenster, Wilhelm-Klemm-Strasse 9, 48149 Muenster, Germany\\
+$^{69}$ University of Oxford, Keble Road, Oxford OX13RH, United Kingdom\\
+$^{70}$ University of Science and Technology Liaoning, Anshan 114051, People's Republic of China\\
+$^{71}$ University of Science and Technology of China, Hefei 230026, People's Republic of China\\
+$^{72}$ University of South China, Hengyang 421001, People's Republic of China\\
+$^{73}$ University of the Punjab, Lahore-54590, Pakistan\\
+$^{74}$ University of Turin and INFN, (A)University of Turin, I-10125, Turin, Italy; (B)University of Eastern Piedmont, I-15121, Alessandria, Italy; (C)INFN, I-10125, Turin, Italy\\
+$^{75}$ Uppsala University, Box 516, SE-75120 Uppsala, Sweden\\
+$^{76}$ Wuhan University, Wuhan 430072, People's Republic of China\\
+$^{77}$ Xinyang Normal University, Xinyang 464000, People's Republic of China\\
+$^{78}$ Yantai University, Yantai 264005, People's Republic of China\\
+$^{79}$ Yunnan University, Kunming 650500, People's Republic of China\\
+$^{80}$ Zhejiang University, Hangzhou 310027, People's Republic of China\\
+$^{81}$ Zhengzhou University, Zhengzhou 450001, People's Republic of China\\
+\vspace{0.2cm}
+$^{a}$ Also at the Moscow Institute of Physics and Technology, Moscow 141700, Russia\\
+$^{b}$ Also at the Novosibirsk State University, Novosibirsk, 630090, Russia\\
+$^{c}$ Also at the NRC "Kurchatov Institute", PNPI, 188300, Gatchina, Russia\\
+$^{d}$ Also at Goethe University Frankfurt, 60323 Frankfurt am Main, Germany\\
+$^{e}$ Also at Key Laboratory for Particle Physics, Astrophysics and Cosmology, Ministry of Education; Shanghai Key Laboratory for Particle Physics and Cosmology; Institute of Nuclear and Particle Physics, Shanghai 200240, People's Republic of China\\
+$^{f}$ Also at Key Laboratory of Nuclear Physics and Ion-beam Application (MOE) and Institute of Modern Physics, Fudan University, Shanghai 200443, People's Republic of China\\
+$^{g}$ Also at State Key Laboratory of Nuclear Physics and Technology, Peking University, Beijing 100871, People's Republic of China\\
+$^{h}$ Also at School of Physics and Electronics, Hunan University, Changsha 410082, China\\
+$^{i}$ Also at Guangdong Provincial Key Laboratory of Nuclear Science, Institute of Quantum Matter, South China Normal University, Guangzhou 510006, China\\
+$^{j}$ Also at Frontiers Science Center for Rare Isotopes, Lanzhou University, Lanzhou 730000, People's Republic of China\\
+$^{k}$ Also at Lanzhou Center for Theoretical Physics, Lanzhou University, Lanzhou 730000, People's Republic of China\\
+$^{l}$ Also at the Department of Mathematical Sciences, IBA, Karachi 75270, Pakistan\\
+}\end{center}
+
+\vspace{0.4cm}
+\end{small}
+Acknowledgement
+The BESIII Collaboration thanks the staff of BEPCII and the IHEP computing center for their strong support. This work is supported in part by National Key R&D Program of China under Contracts Nos. 2020YFA0406300, 2020YFA0406400; National Natural Science Foundation of China (NSFC) under Contracts Nos. 11635010, 11735014, 11835012, 11935015, 11935016, 11935018, 11961141012, 12022510, 12025502, 12035009, 12035013, 12061131003, 12192260, 12192261, 12192262, 12192263, 12192264, 12192265, 12221005, 12225509, 12235017; the Chinese Academy of Sciences (CAS) Large-Scale Scientific Facility Program; the CAS Center for Excellence in Particle Physics (CCEPP); CAS Key Research Program of Frontier Sciences under Contracts Nos. QYZDJ-SSW-SLH003, QYZDJ-SSW-SLH040; 100 Talents Program of CAS; The Institute of Nuclear and Particle Physics (INPAC) and Shanghai Key Laboratory for Particle Physics and Cosmology; ERC under Contract No. 758462; European Union's Horizon 2020 research and innovation programme under Marie Sklodowska-Curie grant agreement under Contract No. 894790; German Research Foundation DFG under Contracts Nos. 443159800, 455635585, Collaborative Research Center CRC 1044, FOR5327, GRK 2149; Istituto Nazionale di Fisica Nucleare, Italy; Ministry of Development of Turkey under Contract No. DPT2006K-120470; National Research Foundation of Korea under Contract No. NRF-2022R1A2C1092335; National Science and Technology fund of Mongolia; National Science Research and Innovation Fund (NSRF) via the Program Management Unit for Human Resources & Institutional Development, Research and Innovation of Thailand under Contract No. B16F640076; Polish National Science Centre under Contract No. 2019/35/O/ST2/02907; The Swedish Research Council; U. S. Department of Energy under Contract No. DE-FG02-05ER41374
+Other Fund Information
+To be inserted with an additional sentence into papers that are relevant to the topic of special funding for specific topics. Authors can suggest which to Li Weiguo and/or the physics coordinator.
+Example added sentence: This paper is also supported by the NSFC under Contract Nos. 10805053, 10979059, ....
+National Natural Science Foundation of China (NSFC), 10805053, PWA
+National Natural Science Foundation of China (NSFC), 10979059, Lund弦碎裂强子化模型及其通用强子产生器研究
+National Natural Science Foundation of China (NSFC), 10775075,
+National Natural Science Foundation of China (NSFC), 10979012, baryons
+National Natural Science Foundation of China (NSFC), 10979038, charmonium
+National Natural Science Foundation of China (NSFC), 10905034, psi(2S)->B Bbar
+National Natural Science Foundation of China (NSFC), 10975093, D 介子
+National Natural Science Foundation of China (NSFC), 10979033, psi(2S)->VP
+National Natural Science Foundation of China (NSFC), 10979058, hc
+National Natural Science Foundation of China (NSFC), 10975143, charmonium rare decays`

@@ -1,0 +1,10 @@
+import Container from "@mui/material/Container";
+import { useRouter } from "next/router";
+import { Left } from "../components/Left";
+
+export default function Home({ func }) {
+  const router = useRouter();
+  return (
+    <Container component="main" maxWidth="md"></Container>
+  );
+}
