@@ -8,7 +8,7 @@ Member OA 是一个为物理合作组类似 BES3、LHAASO 等大型国际合作�
 
 ![](pics/index.png)
 ![](pics/form.png)
-![](pics/index.png)
+![](pics/bes-index.png)
 ![](pics/list.png)
 ## 安装
 
@@ -17,7 +17,7 @@ Member OA 是一个为物理合作组类似 BES3、LHAASO 等大型国际合作�
 
 在启动后，你可以使用浏览器访问 http://localhost:12306 来使用 Member OA。
 ## 开源协议
-
+bes-
 这个开源系统采用 BSD3 协议。你可以在遵守协议的前提下自由使用、复制、修改和分发这个软件。
 
 
